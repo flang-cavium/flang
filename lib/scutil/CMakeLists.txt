@@ -17,6 +17,7 @@
 add_library(scutil
  default-fperror.c
  host-fp-folding.c
+ int128.c
  legacy-folding-api.c
  legacy-ints.c
  lockfile.c
